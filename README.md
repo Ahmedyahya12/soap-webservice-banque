@@ -107,6 +107,9 @@ Les appels Java sont transformés en messages XML SOAP
 
 Le serveur retourne une réponse XML SOAP
 
+<img width="1352" height="694" alt="image" src="https://github.com/user-attachments/assets/17ab3001-91ea-46e3-b6f2-46469e92e6b7" />
+
+
 <img width="1092" height="638" alt="image" src="https://github.com/user-attachments/assets/7f359a3b-70ee-46dd-a020-ffeb03196e9e" />
 
 
